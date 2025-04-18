@@ -3580,3 +3580,12 @@
 4/17/2025 | 8:19:55 PM | INFO | Trying to activate mining on-chain for wallet: 0x51f528672a34c18442d42ad9073462C166D6f2bb 
 4/17/2025 | 8:19:55 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:19:55 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 1:23:45 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 1:23:46 AM | INFO | Start process for wallet 0x51f528672a34c18442d42ad9073462C166D6f2bb 
+4/18/2025 | 1:23:47 AM | INFO | Trying To Login for wallet: 0x51f528672a34c18442d42ad9073462C166D6f2bb 
+4/18/2025 | 1:23:47 AM | INFO | Login successful... 
+4/18/2025 | 1:23:47 AM | INFO | Trying to check user info... 
+4/18/2025 | 1:23:48 AM | INFO | User ID: 103422416 | Twitter: @lusiamadalifa | Total Points: 1296000 
+4/18/2025 | 1:23:48 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 1:23:49 AM | INFO | Last mining time: 4/17/2025, 12:36:51 PM
+4/18/2025 | 1:23:49 AM | WARN | Mining already started, next mining time is: 4/18/2025, 12:36:51 PM

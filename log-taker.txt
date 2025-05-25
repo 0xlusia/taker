@@ -5690,3 +5690,15 @@
 5/24/2025 | 8:19:03 PM | INFO | Trying to check user miner status... 
 5/24/2025 | 8:19:04 PM | INFO | Last mining time: 5/24/2025, 1:25:42 AM
 5/24/2025 | 8:19:04 PM | WARN | Mining already started, next mining time is: 5/25/2025, 1:25:42 AM
+5/25/2025 | 1:43:57 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/25/2025 | 1:43:58 AM | INFO | Start process for wallet 0x51f528672a34c18442d42ad9073462C166D6f2bb 
+5/25/2025 | 1:43:58 AM | INFO | Trying To Login for wallet: 0x51f528672a34c18442d42ad9073462C166D6f2bb 
+5/25/2025 | 1:43:59 AM | INFO | Login successful... 
+5/25/2025 | 1:43:59 AM | INFO | Trying to check user info... 
+5/25/2025 | 1:44:00 AM | INFO | User ID: 103422416 | Twitter: @lusiamadalifa | Total Points: 2088000 
+5/25/2025 | 1:44:00 AM | INFO | Trying to check user miner status... 
+5/25/2025 | 1:44:01 AM | INFO | Last mining time: 5/24/2025, 1:25:42 AM
+5/25/2025 | 1:44:01 AM | INFO | Trying to start Mining for wallet: 0x51f528672a34c18442d42ad9073462C166D6f2bb 
+5/25/2025 | 1:44:01 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/25/2025 | 1:44:01 AM | INFO | Trying to activate mining on-chain for wallet: 0x51f528672a34c18442d42ad9073462C166D6f2bb 
+5/25/2025 | 1:44:13 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x31fe56bb20fd64c86d3f2431380d4b717cadd15e2b7d13c8b3a9edf387a5a1cf 

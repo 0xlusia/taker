@@ -8238,3 +8238,12 @@
 7/8/2025 | 4:25:53 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
 7/8/2025 | 4:25:53 PM | INFO | Trying to activate mining on-chain for wallet: 0x51f528672a34c18442d42ad9073462C166D6f2bb 
 7/8/2025 | 4:26:02 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xfb7419e6922e816e7ca0e4d4c3757a3aa56f39ce85228c1acc7e21922e5e50e2 
+7/8/2025 | 8:22:00 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/8/2025 | 8:22:01 PM | INFO | Start process for wallet 0x51f528672a34c18442d42ad9073462C166D6f2bb 
+7/8/2025 | 8:22:01 PM | INFO | Trying To Login for wallet: 0x51f528672a34c18442d42ad9073462C166D6f2bb 
+7/8/2025 | 8:22:02 PM | INFO | Login successful... 
+7/8/2025 | 8:22:02 PM | INFO | Trying to check user info... 
+7/8/2025 | 8:22:02 PM | INFO | User ID: 103422416 | Twitter: @lusiamadalifa | Total Points: 3072000 
+7/8/2025 | 8:22:02 PM | INFO | Trying to check user miner status... 
+7/8/2025 | 8:22:03 PM | INFO | Last mining time: 7/8/2025, 4:25:57 PM
+7/8/2025 | 8:22:03 PM | WARN | Mining already started, next mining time is: 7/9/2025, 4:25:57 PM
